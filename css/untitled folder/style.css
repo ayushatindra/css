@@ -1,0 +1,24 @@
+#box{
+  height: 500px;
+  width: 500px;
+  background-color: aqua;
+  display: flex;
+  justify-content: end ;
+  align-items: center;
+   
+}
+#box1{
+  height: 100px;
+  width: 100px;
+  background-color: rebeccapurple;
+}
+#box2{
+  height: 130px;
+  width: 120px;
+  background-color: firebrick;
+}
+#box3{
+  height: 140px;
+  width: 190px;
+  background-color: forestgreen;
+}

@@ -1,0 +1,61 @@
+*{
+ 
+}
+/* p{
+  position: static;
+} */
+
+/* Relative position */
+
+
+/* .rel{
+  height: 200px;
+  width: 200px;
+  background-color: gold;
+  color: bisque;
+  border:1px solid white;
+  position: relative;
+} */
+.wrapper{
+  height: 5 00vh;
+  width: 500vh;
+  background-color: yellow;
+
+}
+.box{
+  height:150px;
+  width: 150px;
+  position: relative;
+  display: inline-block;
+  background-color: aqua;
+  /* position: relative; */
+}
+/* #a{
+
+  top: 10px;
+  bottom: 90px;
+}
+#b{
+ 
+  top:20px
+  
+}
+#c{
+ top:30px
+  
+}
+#d{
+  top:40px
+  
+} */
+/* #a{
+  position: fixed;
+} */
+
+#d{
+  position: sticky;
+  top: 0px;
+  bottom: 0px;
+}
+
+ 

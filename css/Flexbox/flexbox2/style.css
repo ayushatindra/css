@@ -1,0 +1,11 @@
+/* by defalut static position no changes */
+/* Position relative  */
+.Box{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  border: 2px solid rgb(162, 113, 113);
+  position: relative;
+  left: 100px;
+  top: -  100px;
+}
